@@ -51,3 +51,5 @@ turtle.goto(230,-10)
 turtle.pendown()
 turtle.right(90)
 turtle.forward(80)
+
+turtle.exitonclick()
